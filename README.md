@@ -18,3 +18,8 @@ Learn computer vision fundamentals with the famous MNIST data
 * Use digit dataset from kaggle.
 * Build model using multi layer Perceptron.
 * Kaggle competition result : Your submission scored 0.93871.
+
+## 3rd step in python:
+* Use digit dataset from Keras datasets.
+* Build model using Keras Convolution2D.
+* 
